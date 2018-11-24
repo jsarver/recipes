@@ -1,4 +1,4 @@
-#Old Fashioned Pancakes
+# Old Fashioned Pancakes
 ## Ingredients
 
 1 1/2 cups all-purpose flour
